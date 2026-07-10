@@ -1,16 +1,15 @@
-# CS50x – Harvard University
+# CS50x
 
-This repository contains my solutions and projects for Harvard's CS50x: Introduction to Computer Science.
+My solutions to Harvard's CS50x: Introduction to Computer Science.
 
-## Progress
+## Repository structure
 
-* Week 1
+- Week 1
+  - Mario
+  - Credit
 
-  * Mario
-  * Credit
+More weeks and projects will be added as I progress through the course.
 
-More weeks will be added as I progress through the course.
-
-## About
+About
 
 I'm currently learning computer science and programming through CS50x, while building a portfolio on GitHub.
