@@ -7,6 +7,8 @@ My solutions to Harvard's CS50x: Introduction to Computer Science.
 - Week 1
   - Mario
   - Credit
+- Week 2
+  - Scrabble
 
 More weeks and projects will be added as I progress through the course.
 
