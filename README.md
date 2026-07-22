@@ -13,6 +13,6 @@ My solutions to Harvard's CS50x: Introduction to Computer Science.
 
 More weeks and projects will be added as I progress through the course.
 
-About
+## About
 
 I'm currently learning computer science and programming through CS50x, while building a portfolio on GitHub.
