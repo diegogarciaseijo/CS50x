@@ -10,6 +10,7 @@ My solutions to Harvard's CS50x: Introduction to Computer Science.
 - Week 2
   - Scrabble
   - Readability
+  - Substitution
 
 More weeks and projects will be added as I progress through the course.
 
