@@ -11,6 +11,12 @@ My solutions to Harvard's CS50x: Introduction to Computer Science.
   - Scrabble
   - Readability
   - Substitution
+ - Week 3
+   - Plurality
+   - Tideman
+ - Week 4
+   - Volume
+   - Filter
 
 More weeks and projects will be added as I progress through the course.
 
