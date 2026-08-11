@@ -18,6 +18,8 @@ My solutions to Harvard's CS50x: Introduction to Computer Science.
    - Volume
    - Filter
    - Recover
+  - Week 5
+    - Inheritance
 
 More weeks and projects will be added as I progress through the course.
 
