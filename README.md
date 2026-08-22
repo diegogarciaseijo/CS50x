@@ -1,6 +1,6 @@
 # CS50x
 
-My solutions to Harvard's CS50x: Introduction to Computer Science.
+My solutions to the 2026 version of Harvard's CS50x: Introduction to Computer Science.
 
 ## Repository structure
 
