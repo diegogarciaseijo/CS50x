@@ -1,0 +1,115 @@
+<!-- NOTE: This project was completed as part of Harvard University's CS50 course. -->
+<!-- The starter code and initial structure were provided by CS50. -->
+<!-- The HTML and JavaScript added or modified by me are my own work. -->
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+
+        <script>
+
+            // Add code to check answers to questions
+
+            document.addEventListener("DOMContentLoaded", () => {
+
+                // First question
+
+                const display1 = document.getElementById("correctincorrect1");
+                const c = document.getElementById("Cbutton");
+                const java = document.getElementById("Javabutton");
+                const python = document.getElementById("Pythonbutton");
+                const js = document.getElementById("JavaScriptbutton");
+
+                c.addEventListener("click", () => {
+                    c.style.backgroundColor = "red";
+                    display1.textContent = "Incorrect";
+                });
+
+                java.addEventListener("click", () => {
+                    java.style.backgroundColor = "red";
+                    display1.textContent = "Incorrect";
+                });
+
+                python.addEventListener("click", () => {
+                    python.style.backgroundColor = "green";
+                    display1.textContent = "Correct";
+                });
+
+                js.addEventListener("click", () => {
+                    js.style.backgroundColor = "red";
+                    display1.textContent = "Incorrect";
+                });
+
+                // Second question
+
+                const display2 = document.getElementById("correctincorrect2");
+                const submit = document.getElementById("submit");
+                const answerfield = document.getElementById("input");
+
+                submit.addEventListener("click", () => {
+
+                    const answer = answerfield.value;
+
+                    if (answer == "C" || answer == "c") {
+                        answerfield.style.backgroundColor = "green";
+                        display2.textContent = "Correct";
+                    }
+                    else {
+                        answerfield.style.backgroundColor = "red";
+                        display2.textContent = "Incorrect";
+                    }
+                });
+
+            });
+
+        </script>
+    </head>
+
+    <body>
+
+        <div class="header">
+            <h1>Trivia!</h1>
+        </div>
+
+        <div class="container">
+
+            <div class="section">
+                <h2>Part 1: Multiple Choice</h2>
+                <hr>
+
+                <!-- Add multiple choice question here -->
+
+                <h3>Which programming language was created by Guido van Rossum?</h3>
+
+                <h4><button type="button" id="Cbutton">C</button></h4>
+                <h4><button type="button" id="Javabutton">Java</button></h4>
+                <h4><button type="button" id="Pythonbutton">Python</button></h4>
+                <h4><button type="button" id="JavaScriptbutton">JavaScript</button></h4>
+
+                <h4><p id="correctincorrect1"></p></h4>
+            </div>
+
+            <div class="section">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+
+                <!-- Add free response question here -->
+
+                <h3>What is the name of the programming language created by Dennis Ritchie at Bell Labs?</h3>
+
+                <input type="text" id="input">
+                <input type="button" value="Submit" id="submit">
+
+                <p id="correctincorrect2"></p>
+            </div>
+
+        </div>
+
+    </body>
+
+</html>
