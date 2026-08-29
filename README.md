@@ -20,6 +20,19 @@ My solutions to the 2026 version of Harvard's CS50x: Introduction to Computer Sc
    - Recover
   - Week 5
     - Inheritance
+    - Speller
+  - Week 6
+    - Mario
+    - Credit
+    - Readability
+    - DNA
+  - Week 7
+    - Songs
+    - Movies
+    - Fiftyville
+  - Week 8
+    - Trivia
+    - Homepage
 
 More weeks and projects will be added as I progress through the course.
 
