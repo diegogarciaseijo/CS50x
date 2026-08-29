@@ -1,0 +1,26 @@
+body {
+    font-family: "Comic Sans MS";
+    background-color: #ADD8E6;
+    color: #000000;
+    margin: 25px 50px;
+}
+
+h1 {
+    text-align: center;
+    color: #006600;
+}
+
+h2 {
+    color: #006600;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 65%;
+}
+
+/* Extend the navbar to the edges of the page. */
+nav {
+    margin: -25px -50px 25px -50px;
+}
