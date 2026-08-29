@@ -1,0 +1,35 @@
+HTML tags used:
+(Some of them are a part of the ones that dont count for the 10 but i included them all)
+1. <!DOCTYPE html> - Declares the document as an HTML5 document.
+2. <html> - Contains the entire HTML document.
+3. <head> - Contains metadata, stylesheets, scripts, and the page title.
+4. <meta> - Defines the viewport settings for responsive display on mobile devices.
+5. <link> - Connects the pages to Bootstrap and the custom CSS stylesheet.
+6. <script> - Loads Bootstrap's JavaScript and the custom JavaScript file.
+7. <title> - Defines the title displayed in the browser tab.
+8. <body> - Contains the visible content of each page.
+9. <nav> - Contains the navigation bar linking the different pages.
+10. <div> - Groups the navigation links together.
+11. <a> - Creates hyperlinks between the different pages.
+12. <h1> - Defines the main heading of each page.
+13. <h2> - Defines section headings.
+14. <p> - Contains paragraphs and the AI fact displayed by JavaScript.
+15. <img> - Displays an image related to artificial intelligence.
+16. <ul> - Creates an unordered list.
+17. <li> - Defines individual items in the list.
+18. <button> - Creates the button used to display a random AI fact.
+
+CSS properties used:
+1. font-family
+2. background-color
+3. color
+4. margin
+5. text-align
+6. display
+7. width
+
+Bootstrap:
+Bootstrap was used to create and style the navigation bar using its navbar and utility classes.
+
+JavaScript:
+JavaScript was used to make an interactive button that displays a randomly selected fact about artificial intelligence.
