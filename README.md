@@ -33,6 +33,10 @@ My solutions to the 2026 version of Harvard's CS50x: Introduction to Computer Sc
   - Week 8
     - Trivia
     - Homepage
+  - Week 9
+    - Birthdays
+  - Week 10
+    - Finance
 
 More weeks and projects will be added as I progress through the course.
 
