@@ -37,8 +37,9 @@ My solutions to the 2026 version of Harvard's CS50x: Introduction to Computer Sc
     - Birthdays
   - Week 10
     - Finance
-More weeks and projects will be added as I progress through the course.
+  - Final Project
+    - TikTakMind
 
 ## About
 
-I'm currently learning computer science and programming through CS50x, while building a portfolio on GitHub.
+I'm currently learning computer science and programming, while building a portfolio on GitHub.
